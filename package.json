@@ -1,0 +1,22 @@
+{
+  "name": "wte",
+  "version": "1.0.0",
+  "description": "solve what to eat",
+  "main": "sig.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eidonjoe/wte.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eidonjoe/wte/issues"
+  },
+  "homepage": "https://github.com/eidonjoe/wte",
+  "dependencies": {
+    "utf8": "^2.1.1"
+  }
+}
